@@ -114,3 +114,5 @@ Projeto de desenvolvimento de uma API para um sistema de gestão de recursos hum
 <p align="center">
   <i>Transformando ideias em soluções por meio da tecnologia.</i>
 </p>
+
+![Snake animation](https://github.com/rafaballerini2/osoouzaDev/blob/output/github-contribution-grid-snake.svg)
