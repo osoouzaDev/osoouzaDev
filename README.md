@@ -86,12 +86,15 @@ Projeto de desenvolvimento de uma API para um sistema de gestão de recursos hum
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Linguagens de programação
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=osoouzaDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoouzaDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoouzaDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas nos repositórios públicos" />
 </div>
+
+<p align="center">
+  <a href="https://github.com/osoouzaDev?tab=repositories">🔎 Explorar meus projetos</a>
+</p>
 
 ---
 
